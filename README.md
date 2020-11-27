@@ -29,11 +29,6 @@ Stolen bikes is a typical problem in Malmö, where the Docly HQ is. We need your
 - You can use any boilerplate and tools that you want to but we advice you to keep it simple. A clean, robust API is what we're looking for, and we're usually in favor of using all available tools and tricks to get things done.
 - We prefer Docker to run our services, but as long as you have clear instructions on how to run yours you may use whatever you want.
 
-# Instructions
-
-- Fork this repo
-- Build a clean and robust API
-- Let us know that you've completed the challenge and how we can test it.
 
 # Suggested data model
 
