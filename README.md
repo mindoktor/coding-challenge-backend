@@ -18,8 +18,7 @@ Stolen bikes is a typical problem in Malmö, where the Docly HQ is. We need your
 
 # Tech requirements
 
-- Go or Node.js (Typescript is a plus)
-- Tests 
+- Go or Node.js
 - You may use any database
 
 # Your challenge
